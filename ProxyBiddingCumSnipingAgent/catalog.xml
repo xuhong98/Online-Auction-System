@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/ProxyBiddingWebService/ProxyBiddingWebService?wsdl" uri="xml-resources/web-service-references/ProxyBiddingWebService/wsdl/localhost_8080/ProxyBiddingWebService/ProxyBiddingWebService.wsdl"/>
+    <system systemId="http://localhost:8080/ProxyBiddingWebService/ProxyBiddingWebService?xsd=1" uri="xml-resources/web-service-references/ProxyBiddingWebService/wsdl/localhost_8080/ProxyBiddingWebService/ProxyBiddingWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/CustomerWebService/CustomerWebService?wsdl" uri="xml-resources/web-service-references/CustomerWebService/wsdl/localhost_8080/CustomerWebService/CustomerWebService.wsdl"/>
+    <system systemId="http://localhost:8080/CustomerWebService/CustomerWebService?xsd=1" uri="xml-resources/web-service-references/CustomerWebService/wsdl/localhost_8080/CustomerWebService/CustomerWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AuctionListingWebService/AuctionListingWebService?wsdl" uri="xml-resources/web-service-references/AuctionListingWebService/wsdl/localhost_8080/AuctionListingWebService/AuctionListingWebService.wsdl"/>
+    <system systemId="http://localhost:8080/AuctionListingWebService/AuctionListingWebService?xsd=1" uri="xml-resources/web-service-references/AuctionListingWebService/wsdl/localhost_8080/AuctionListingWebService/AuctionListingWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/BidingWebService/BidingWebService?wsdl" uri="xml-resources/web-service-references/BidingWebService/wsdl/localhost_8080/BidingWebService/BidingWebService.wsdl"/>
+    <system systemId="http://localhost:8080/BidingWebService/BidingWebService?xsd=1" uri="xml-resources/web-service-references/BidingWebService/wsdl/localhost_8080/BidingWebService/BidingWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/BidWebservice/BidWebservice?wsdl" uri="xml-resources/web-service-references/BidWebservice/wsdl/localhost_8080/BidWebservice/BidWebservice.wsdl"/>
+    <system systemId="http://localhost:8080/BidWebservice/BidWebservice?xsd=1" uri="xml-resources/web-service-references/BidWebservice/wsdl/localhost_8080/BidWebservice/BidWebservice.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AuctionListingWebservice/AuctionListingWebservice?wsdl" uri="xml-resources/web-service-references/AuctionListingWebservice/wsdl/localhost_8080/AuctionListingWebservice/AuctionListingWebservice.wsdl"/>
+    <system systemId="http://localhost:8080/AuctionListingWebservice/AuctionListingWebservice?xsd=1" uri="xml-resources/web-service-references/AuctionListingWebservice/wsdl/localhost_8080/AuctionListingWebservice/AuctionListingWebservice.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/CustomerWebservice/CustomerWebservice?wsdl" uri="xml-resources/web-service-references/CustomerWebservice/wsdl/localhost_8080/CustomerWebservice/CustomerWebservice.wsdl"/>
+    <system systemId="http://localhost:8080/CustomerWebservice/CustomerWebservice?xsd=1" uri="xml-resources/web-service-references/CustomerWebservice/wsdl/localhost_8080/CustomerWebservice/CustomerWebservice.xsd_1.xsd"/>
+</catalog>
